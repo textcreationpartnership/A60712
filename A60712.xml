@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Sober ansvver to a scandalous paper termed Three queries, and answers to them privately spread abroad to amuse the people and disaffect them to the King and his late Christian declaration for liberty of conscience, by calling in question the legallity of it.</title>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60712</idno><idno type="EEBO-CITATION">12440123</idno>
+  <idno type="VID">62085</idno>
+  <idno type="EEBO-PROQUEST">2240939377</idno>
+  
+            <idno type="STC">Wing S4406</idno>
+            <idno type="STC">ESTC R18942</idno>
+            <idno type="OCLC">12440123</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60712)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62085)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 298:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Sober ansvver to a scandalous paper termed Three queries, and answers to them privately spread abroad to amuse the people and disaffect them to the King and his late Christian declaration for liberty of conscience, by calling in question the legallity of it.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Three queries and answers to them.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62085:1"/>
+            <pb facs="tcp:62085:1"/>
+            <p>A Sober ANSVVER To a Scandalous Paper termed <hi>Three Queries</hi> And Answers to them.</p>
+            <p>Privately spread abroad to amuse the <hi>People,</hi> and disaffect them to the <hi>King,</hi> and his late <hi>Christian Declaration</hi> FOR Liberty of Conscience, By calling in question the Legallity of it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>Andrew Sowle,</hi> at the <hi>Three Keys,</hi> in <hi>Nags-Head-Court,</hi> in <hi>Gra<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-Church-Street,</hi> over-against the <hi>Conduit,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:62085:2"/>
+            <pb n="3" facs="tcp:62085:2"/>
+            <head>A Sober ANSVVER TO A <hi>Scandalous Paper,</hi> &amp;c.</head>
+            <p>AMong the many prudent Admonitions of <hi>King Solomon,</hi> I find these, <hi>Prov.</hi> 17.26, 27. <hi>To Punish the Just is not good, nor to Strike Princes for Equity: He that hath Knowledge spareth his Words, and a Man of Ʋnderstanding is of an excellent Spirit;</hi> or as the Margent hath it, <hi>a soft Spirit.</hi> Surely if this Advice had been taken, the Author of this Paper would never have so highly taxed the <hi>King</hi> for doing an Act wherein he hath shewed so much Prudence and Christianity as his <hi>Declaration</hi> de<g ref="char:EOLhyphen"/>monstrates; for by it he hath hurt none, but hath prevented the hurting of many, and that this should stir up any to inveigh so bit<g ref="char:EOLhyphen"/>terly against him, is a matter greatly to be admired and lamented by all Sober and Moderate Men.</p>
+            <p>
+               <hi>The first Query is,</hi>
+            </p>
+            <p>
+               <hi>Whether the matter of the late Declaration be Illegal.</hi>
+            </p>
+            <p>The first Answer,</p>
+            <p>
+               <hi>It is altogether Illegal, the reason given is, the Foot upon which the</hi> De<g ref="char:EOLhyphen"/>claration <hi>stands, is not only a Dispensing Power in particular Cases, but a Disannulling Power, and highly prejudical to the</hi> King <hi>himself, because it takes away the Faith and Trust which his People repose in Him, when a Law is made which they look upon as their Security.</hi>
+            </p>
+            <pb n="4" facs="tcp:62085:3"/>
+            <p>
+               <hi>Reply,</hi> The <hi>Query</hi> being put in general tearms, and the <hi>Answer</hi> like it, it may be reasonably apprehended the Author judgeth it contrary to the <hi>Law of God</hi> and the <hi>Nation;</hi> that <hi>Liberty of Consci<g ref="char:EOLhyphen"/>ence</hi> is not contrary to the <hi>Law of God,</hi> is very evident by the Scriptures, which hath been proved very largly in many publick Prints on this occasion, enough to satisfie any unprejudiced En<g ref="char:EOLhyphen"/>quirer. And to take Law in the right sence, it cannot be against the <hi>Law of the Nation,</hi> for it is an approved Maxime, <hi>Salus Po<g ref="char:EOLhyphen"/>puli est suprema Lex, <hi>The Sasēty of the People is the Supream Law;</hi>
+               </hi> especially when the <hi>King</hi> who best understands wherein the Safety of the People lys jugeth so.</p>
+            <p>And do not the <hi>Lawyers</hi> acknowledge, that the <hi>Law of God</hi> is written in the Heart? and that every Mans Law must be consonant with the <hi>Law of God,</hi> and therefore the <hi>Laws of Princes,</hi> the <hi>Com<g ref="char:EOLhyphen"/>mandments of Prelates,</hi> the <hi>Statutes of Communalities,</hi> nor yet the <hi>Ordi<g ref="char:EOLhyphen"/>nances of the Church</hi> are not Righteous nor Obligatory, but as they are consonant to the <hi>Law of God,</hi> against which Law Prescription, nor Custom may not prevail; and if any be brought in against it, they be not Prescriptions, Statutes, nor Customs, but things void, and against Justice; and are not Laws for illegal Ruining and De<g ref="char:EOLhyphen"/>stroying People for their Conscientious Worshipping of <hi>God</hi> such? for Legallity and Illegallity doth not depend upon Laws made by a particular Faction, for the Ruining all that are not of their Stamp, but that is truly Legallity which hath a regard to the general good of all, and distributes equal right unto all Men without Partiallity, which is the matter and end of the <hi>Declaration,</hi> so that it is a most malicious Insinuation to say, <hi>The</hi> King <hi>thereby takes away that Faith and Trust which the People repose in Him.</hi> And in regard the <hi>King</hi> re<g ref="char:EOLhyphen"/>fers the abrogating of those destructive Laws to the meeting of a <hi>Parliament,</hi> the Power he useth is not a disannulling, but a Power to prevent Mischief.</p>
+            <p>For Experience shews nothing more common among careful Men, who have Herds and Flocks, then if any of them are given to Butt and Gore the rest, that they either cut their Horns, or clog them, to prevent their doing Mischief: And are not Dogs often Mussled to prevent their Bitting People? And may not a better Ar<g ref="char:EOLhyphen"/>gument be maintained against the preventing the Mischief these Creatures may do, seeing they are deprived of the use of what
+<pb n="5" facs="tcp:62085:3"/>Nature affords them? but these Laws for Ruining People are meer contrivances for that purpose and intent.</p>
+            <p>So that the <hi>King</hi> coming to his Crown, seeing what Ruining and Destroying there was of People for their Consciences, having a due regard to the good of his People in general, hath interposed his Power to prevent the like for the future; and pray herein what good Law hath he broken? and wherein hath he deceived the People, or failed them in the Trust reposed in him?</p>
+            <p>And seeing the <hi>Kings</hi> Dispencing Power is so much inveighed against, which is only a forbearing the Execution of some <hi>Penal Laws,</hi> which ruined the Industrous part of the Nation; Why hath there not been as much Zeal shewn against the <hi>Justices of Peace</hi> for these many Years in not strictly prosecuting the <hi>Penal Laws</hi> against <hi>Cursing, Swearing, Drunkenness</hi> and <hi>Whoring,</hi> which they are sworn to Execute? or should the Justices of Peace have a Power to suspend the Punishment of Evil, but the <hi>King</hi> being more streightly tyed, that he shall not have power to dispence with the Penalties provided against tender Consciences? Doth not this plainly shew, that the <hi>King</hi> cannot please some, except he suffer them to destroy others? and that their Zeal is not for the right use of Law, but for the abuse of it, to gratifie their envious Minds. But if things are well considered the <hi>King</hi> hath a better Foot for his <hi>Declaration</hi> then this Author would assign him. It cannot be forgotten, that the late <hi>King,</hi> to quiet the Minds of all his Subjects, in his <hi>Declaration</hi> from <hi>Breda</hi> saith thus,</p>
+            <p>
+               <hi>We do declare a Liberty to tender Consciences, and that no Man shall be disquieted or called in question for differences of opinion in matter of Religion, which do not disturb the Peace; and that we shall be ready to consent to such an Act of Parliament as upon mature deliberation shall be offered to us, for the full granting of that Indulgence.</hi>
+            </p>
+            <p>But none being offered to him, and the <hi>King</hi> being not forgetful of his Promise in 1662. he put forth another <hi>Declaration,</hi> wherein he repeated his Promise in his former, and further faith thus, <hi>We remember well the confirmations we have made of them since upon several occasions in Parliament, and all t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ese things are still fresh in our Memo<g ref="char:EOLhyphen"/>ry, so are we still firm in the resolution of performing them to the full.</hi>
+            </p>
+            <p>And in 1672. he gave forth another <hi>Declaration,</hi> in the Pream<g ref="char:EOLhyphen"/>ble of which he useth many substantial Anguments inducing him
+<pb n="6" facs="tcp:62085:4"/>to it, he thus expresseth himself, <hi>We do in the next place declare, our Will and Pleasure to be that the Execution of all and all manner of</hi> Penal Laws <hi>in matters Ecclesiastical against whatsoever sort of</hi> Nonconfor<g ref="char:EOLhyphen"/>mists, <hi>or</hi> Recusants <hi>be immediately suspended, and they are hereby suspended,</hi> &amp;c.</p>
+            <p>All these foregoing <hi>Declarations</hi> Plainly shew, that the <hi>King</hi> would have granted a general Liberty, had he met with a <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> that would have joyned with him; but His and the Nations unhappiness was, that the <hi>Parliament</hi> instead of centering with him in so good a Work, put him upon enacting Laws quite of a<g ref="char:EOLhyphen"/>nother nature, so that the <hi>King</hi> was drawn from the conscientious performance of his promise at <hi>Breda,</hi> to a vehement Prosecution of those he had promised Liberty to.</p>
+            <p>For in the time of the <hi>Sickness,</hi> the Prisons being infected, were crowded full of <hi>Conscientious Dissenters,</hi> whereby many were made Widows and Fatherless, and many Families Ruined, and these Prosecutions continued to the end of the <hi>Kings</hi> Reign, who by his <hi>Declarations</hi> cleared himself from the Blood and Spoyl that was made thereby, and so it lies at the Doors of them who were the promoters of it, for which they must give an account to the Righteous Judge of Heaven and Earth.</p>
+            <p>The present <hi>King</hi> seeing how his Brother was disappointed of his good intentions, and fore-seeing the Ruin that was coming up<g ref="char:EOLhyphen"/>on the Nation, through the violent proceedings that were on Foot, might very well think a conscientious Obligation lay on the Crown for the performance of that which his Brother had promised, gave forth his Gracious <hi>Declaration,</hi> whereby he delivered the Oppressed, and stop the Violence of the Oppressors; which makes them as much out of Order as <hi>Diana's Silver-Smiths</hi> were when the Apostle <hi>Paul</hi> came to <hi>Ephesus,</hi> so that they spared not to throw Dirt in the face of the <hi>King,</hi> and say His <hi>Declaration is Illegal;</hi> and yet in a<g ref="char:EOLhyphen"/>nother place to Excuse the Clergy, for not publishing it, say, <hi>The King can do no Illegal thing;</hi> whereby the whole design of the Paper is made void. For if the <hi>Declaration</hi> be the <hi>Kings,</hi> and he own it as his Act, as without doubt he will, then it is confessed to be Le<g ref="char:EOLhyphen"/>gal, and the Clergy are no wayes excusable in not reading of it, being commanded by the <hi>King,</hi> and permitted by their own <hi>Liturgy.</hi>
+            </p>
+            <p>But the question may be put, whether a good Christian would
+<pb n="7" facs="tcp:62085:4"/>make a greater scruple, of reading the <hi>Book of Sports,</hi> or the <hi>Order of Sessions for Prosecuting Dissenters,</hi> or the <hi>Kings Declaration for Li<g ref="char:EOLhyphen"/>berty of Conscience?</hi> Surely this is not unlike straining at a <hi>Gnat,</hi> and swallowing a <hi>Camel.</hi>
+            </p>
+            <p>Upon the second Reason I query; if each <hi>Bishop</hi> or <hi>Minister</hi> is not a capable Judg in such Cases, but are Judges of their own Consciences; why did they not urge that for their Reason, which not doubt would have better pleased the <hi>King,</hi> then the Reasons they gave; but in regard they looked upon themselves to be Com<g ref="char:EOLhyphen"/>putent Judges, they undertook to dispute the <hi>Kings</hi> dispencing power; such Disputations and Actions would not have been al<g ref="char:EOLhyphen"/>lowed in <hi>King Henry</hi> the Eight's time, who brought all the <hi>Clergy</hi> in <hi>England</hi> under a Premunire, for transgressing his <hi>Proclamation,</hi> wherein he did forbid the divulging or publishing any thing here<g ref="char:EOLhyphen"/>tofore within this Year, passed, purchased, or to be purchased here<g ref="char:EOLhyphen"/>after, containing matter prejudicial to the high Authority, Juris<g ref="char:EOLhyphen"/>diction, and Prorogative Royal of this his said Realm, or to the Let, Hinderance or Impeachment of his Graces noble and intended Purposes in the Premises, upon pain of incuring his Highnesses In<g ref="char:EOLhyphen"/>dignation and Imprisonment, and further Punishment of their Bodies for their so doing, at his Graces Pleasure, to the dread<g ref="char:EOLhyphen"/>ful Example of all other, as the Words of the <hi>Proclamation</hi> are.</p>
+            <p>The occasion of this <hi>Proclamation</hi> was; the <hi>King</hi> was minded to put away his Brother Prince <hi>Arthurs</hi> Wife, whom he had Married, wherein he was opposed by the <hi>Church of Rome,</hi> but the <hi>Clergy of England</hi> supporting and maintaining the Legantine Power of the <hi>Cardinal</hi> in opposition to the <hi>King,</hi> by reason there<g ref="char:EOLhyphen"/>of, were all entangled in a premunire, which cost them a Contri<g ref="char:EOLhyphen"/>bution of 118840 <hi>l.</hi> 10 <hi>d.</hi> with which Sum of Money, much Labour, and their humble submission (in which they cal<g ref="char:EOLhyphen"/>led the <hi>King the Supream Head of the Church of England</hi>) obtained their Pardon, and yet at that time, or not long before, the <hi>King</hi> was no Enemy to the <hi>Pope,</hi> but sought all means to establish the <hi>See of Rome,</hi> as may be seen in the Book of <hi>Martyrs,</hi> Fol. 959. the old Impression.</p>
+            <p>If <hi>King Henry</hi> the Eight was so severe with the <hi>Clergy</hi> of his own Religion, for their only doing that he commanded them they
+<pb n="8" facs="tcp:62085:5"/>should not do, and that only in opposition to them that went a<g ref="char:EOLhyphen"/>bout to hinder the putting away his Wife, with whom he had lived with near Tweny Years: How much more are they to blame, who transgress the <hi>Kings</hi> command in a matter which so meerl, concerns the good of the Nation? Surely our <hi>King</hi> hath as much power to command as He to forbid, and the cause in hand is much more lawful then that he promoted: And though they have so lightly come off for this their contempt against the <hi>King,</hi> yet those who have been found in contempt against the <hi>Bishops Courts</hi> have found more Severe dealing, for first they are Excommunica<g ref="char:EOLhyphen"/>ted, then upon the Writ <hi>de Excommunicato Capiendo,</hi> Imprisoned during Life, except they Conform and be Absolved; which hath cost many long Imprisonments, and their Lives at last, so that it is much be ter to fall into the Hand of a merciful <hi>King,</hi> then an unmerciful <hi>Bishop.</hi> For the <hi>King</hi> for a high contempt, is willing to take their own Recognizance for their appearance to answer the Law, and for refusing thereof sends them to a Prison fit for Men, gives them a fair Tryal at Law by a Jury of their own Church-Men, and their Council Liberty to plead what they can for them. Ent for contempt against the <hi>Bishops,</hi> though many times Ignorant ones, for want of the knowledge of the methods of their Courts, and sometimes real conscientious ones, Men and Women are Excommunicated, and cast into noisome Goals, fitter for Dogs and Swine then Men and Women, where many have lain till Death, which hath been little taken notice of. But what a clatter hath there been about a few Dayes Imprisonment of Seven <hi>Bishops,</hi> only for a wilful refusal of giving Recognizance to appear at the <hi>King-Bench-Bar</hi> in order to a fair Tryal. Surely that <hi>Bishop</hi> was in a terrible fright, who Preaching a Sermon after he was sent for up, no Text would serve him, but, <hi>Father if it be thy Will let this Cup pass from me;</hi> intimating that he expected to meet with very great Suffering, or as if he was very unable to bear what he ex<g ref="char:EOLhyphen"/>pected; else he would never have so abused the Words of our <hi>Saviour.</hi>
+            </p>
+            <p>But this Carriage of the <hi>Bishops</hi> brings to my mind an old pro<g ref="char:EOLhyphen"/>verb of their own, <hi>No Bishop, No King,</hi> intimating that without the <hi>Bishops</hi> the <hi>King</hi> could not long continue, but their Behaviour in this late matter doth bespeak, that except the <hi>King</hi> will do only
+<pb n="9" facs="tcp:62085:5"/>what they will have him, and admit them for his Superiors, they will divest him of his Prorogative, and then no <hi>King,</hi> but in sub<g ref="char:EOLhyphen"/>jection to the <hi>Bishops;</hi> if this be the Legal Loyalty spoken of, I suppose the <hi>King</hi> will hardly take it so, but rather as tending to <hi>Crimen laesae Majestatis.</hi>
+            </p>
+            <p>And I would willingly know whether it is only <hi>Bishops</hi> and <hi>Ministers</hi> that are Judges of their own private Conferences, and against which they must not go? or it is a priviledge that belongs to all Christians in general; if it is answered in the af<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r<g ref="char:EOLhyphen"/>mative as of necessity it must, <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to truth, for <hi>Rom.</hi> 14.5. the Apostle <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>Let every one be fully perswaded in his own mind,</hi> and <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>n such small matters, much more in mat<g ref="char:EOLhyphen"/>ters <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat concerns Life and Salvation; then the <hi>Kings Decla<g ref="char:EOLhyphen"/>ration</hi> cannot be abusively termed Illegal, the end and intent of it being to leave every Man to be judg of his own Conscience, and to worship <hi>God</hi> as he is perswaded he ought to do; herein this Author hath done like the rest of his Brethren, for it is a common Practice with them, when they are put to it, to make use of their Opponents Arguments to defend their own Cause; and allow t<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at for a good Plea to themselves, which they denied to others when used to more purpose: Surely he intended none but Fools and Ideots should read his Paper, and not considerate Men, for they would soon find out his Nonsence and Contra<g ref="char:EOLhyphen"/>dictions.</p>
+            <p>For it it be allowed that every Man is judg of his own private Conscience, against which he must not go; then how ill have the <hi>Church of England</hi> done above these Twenty Years, in Persecu<g ref="char:EOLhyphen"/>ting People for keeping to it? And how well hath the <hi>King</hi> done to stop the violence thereof, he hath done like a true Father of his Country, and no doubt <hi>God</hi> will own, and stand by him in it against all opposition.</p>
+            <p>Thirdly, he saith, <hi>This case is publickly adjudged against in Parli<g ref="char:EOLhyphen"/>ament</hi> 1672.</p>
+            <p>Query, <hi>Whether the Iudgment of a Dissolved Parli<g ref="char:EOLhyphen"/>ament, or a Reigning</hi> King, <hi>with the approbation of the Iudges be most authentick,</hi> but some have been adju<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged by Par<g ref="char:EOLhyphen"/>liament to be <hi>Protestant Dissenters,</hi> and yet have been Prosecuted as <hi>Popish Recusants.</hi>
+            </p>
+            <pb n="10" facs="tcp:62085:6"/>
+            <p> Secondly, He saith, <hi>The general forbearance of Addresses, ground<g ref="char:EOLhyphen"/>ed upon the illegallity of that dispencing Power, shews this to have been the judgment of the greatest part of the</hi> Clergy, <hi>and others.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> If each <hi>Bishop</hi> and <hi>Minister</hi> is not capable to judge in such cases, then what signifies their Judgment in forbearing of Addres<g ref="char:EOLhyphen"/>ses, but Ingratitude in the highest Nature? for no People but the <hi>Church of England,</hi> who had received such gracious Promi<g ref="char:EOLhyphen"/>ses from a <hi>Prince</hi> of a different Perswasion, but would have thought themselves Obliged, to have made a grateful acknowledgment for them.</p>
+            <p>And as to the <hi>Declaration</hi> of the <hi>Judges,</hi> he seems to undervalue it, because it never yet came legally to the knowledge of the Subjects.</p>
+            <p>
+               <hi>Reply,</hi> It is a sign the <hi>King</hi> was not minded to do any thing that is illegal, for he not only took the advice of his <hi>wise Council,</hi> but also of the Judges, who sit in the <hi>House of Lords</hi> to be advised with in difficult Cases of Law; for if they are judged capable of advising the Law-makers, surely the <hi>King</hi> hath fully shewed his clearness in taking their advice; for they are as Capable to ad<g ref="char:EOLhyphen"/>vise Him in matters of Law, as they would have been the <hi>House of Lords,</hi> if they were now sitting; if the Judgment of the <hi>Judges</hi> had been for the Authors purpose, he would not have cavelled at it as he doth.</p>
+            <p>His fourth Reason is, <hi>The</hi> Bishops <hi>refusing to send the Order and Declaration, the</hi> Ministers <hi>have something more then their own private Judgments to move them to refuse to read it.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> What help is this to them, when they are not capable Judges in such cases.</p>
+            <p>The Second Query with its answer and reasons depending upon the legallity or illegallity of the <hi>Declaration</hi> is already answered by proving it illegal, that I need say little to it, for it is the <hi>Kings</hi> Act, and he saith, <hi>The King can do no illegal thing.</hi>
+            </p>
+            <p>
+               <hi>The Third Query.</hi>
+            </p>
+            <p>
+               <hi>What are the ill Consequences of reading the Decla<g ref="char:EOLhyphen"/>ration?</hi>
+            </p>
+            <p>Answer, <hi>They are many and great, and therefore in Prudence as well as Conscience, it ought not to be done,</hi> and draws up the ill Conse<g ref="char:EOLhyphen"/>quences under sive Heads.</p>
+            <list>
+               <pb n="11" facs="tcp:62085:6"/>
+               <item>First, <hi>The</hi> Clergy <hi>will be judged Cowards and Hypocrites.</hi>
+               </item>
+               <item>Secondly, <hi>He fears many who have Votes in chosing Parliament Men, will be strengthened in choosing not only Friends to the Indulgence, but Dispencing Power.</hi>
+               </item>
+               <item>Thirdly, <hi>He apprehends the reading of it, was only ordered to make them parties to it, it being so well known already.</hi>
+               </item>
+               <item>Fourthly, <hi>He fears an advantage will be taken by their reading it, and it will be published in the</hi> Gazette, &amp;c.</item>
+               <item>Fifthly, <hi>That after they have read it, they may expect other things may be ordered to be published by them, at which they making a stand when they have lost their Reputation, will be of no force, and the dan<g ref="char:EOLhyphen"/>ger he proposeth, is loosing their interest in the</hi> Penal Laws <hi>and</hi> Tests.</item>
+            </list>
+            <p>
+               <hi>Reply,</hi> These are inconsiderable Inconveniences in comparison of what would attend them for their Disobedience, if the <hi>King</hi> should be severe; for as the wise <hi>King Solomon</hi> saith, <hi>The Wrath of the</hi> King <hi>is as a Messenger of Death, but a wise Man will pacifie it.</hi> And again, <hi>The</hi> King<hi>'s Wrath is as the Roaring of a Lion, but his Favour is as the Dew upon the Grass:</hi> Therefore be advised and lay aside your high Provocations against the <hi>King,</hi> least his Patience and Gentleness be turned into Wrath, and ye repent when it is to late.</p>
+            <p>
+               <hi>Objections in General,</hi>
+            </p>
+            <p>It may be Objected, <hi>There will be great Inconveniences on the other side.</hi> To which he Answers,</p>
+            <p>
+               <hi>If any thing be Illegal, both in Matter and Publication, we are not to do it for fear of Inconveniences, but perform our Duty, and to leave the event to God, a certain Evil must not be done to avoid a Contingent one.</hi>
+            </p>
+            <p>
+               <hi>Reply,</hi> The Legallity of the matter is already proved, and the Publication of it is hindred by the flubbornness of the <hi>Clergy;</hi> so that you have just cause to fear the contingent Inconveniences, see<g ref="char:EOLhyphen"/>ing you are contending against your <hi>King,</hi> and how can you ex<g ref="char:EOLhyphen"/>pect a good event from <hi>God</hi> in so bad a Work.</p>
+            <pb n="12" facs="tcp:62085:7"/>
+            <p>
+               <hi>Objections in Particular.</hi>
+            </p>
+            <p>It may be Objected, first, <hi>This will be interpreted by the</hi> Papists, <hi>as a failure of our great Principles and Loyalty.</hi>
+            </p>
+            <p>To which I answer <hi>Yes,</hi> and all sober Men besides, for you not acknowledging so large a Favour as the <hi>King</hi> hath bestowed on you, affects you both with Disloyalty and Ingratitude; for it is ac<g ref="char:EOLhyphen"/>knowledged the <hi>Clergy</hi> refused to Address even in a branch that made for themselves, because it proceeded from the Dispencing Power, which is an absolute stubborn piece of Disloyalty, and appropriating a legal sort of Loyalty to your selves, because you oppose the <hi>King</hi> in dispencing with the Ruining <hi>Penal Laws,</hi> will not make you the better Subjects, but shews what you would be at; and because you cannot still be perplexing your Neighbours with those cruel Laws; you would make People believe that all Law is taken away, and you are the Men that only stand up to hinder it, but do not shew the obstruction of any good Law to the pre<g ref="char:EOLhyphen"/>judice of the meanest Subject: And this course you take doth not maintain the Principle of Suffering without an Antichristian op<g ref="char:EOLhyphen"/>position, for then you would have taken <hi>Christ</hi> for your Example, <hi>Who when he was Reviled, Reviled not again; when he Suffered, he Threatened not, but committeth himself to him that judgeth righteously,</hi> 1 <hi>Pet.</hi> 2.23. But because the <hi>King</hi> will not let you Ruin and De<g ref="char:EOLhyphen"/>stroy People, as you have done for many Years, you revile him, and care not what Dirt you throw in his Face.</p>
+            <p>The Second Objection,</p>
+            <p>
+               <hi>That</hi> Dissenters <hi>may construe this refusal a Declaration against all Tenderness to them.</hi>
+            </p>
+            <p>
+               <hi>Answer,</hi> Which very well they may, and no assurances from your <hi>Church-Men</hi> of their inclination to Tenderness to them will perswade them to the contrary, for they continued Spoyling and Destroying as long as they durst, and some having attempted it since the coming forth of the <hi>Kings Declaration,</hi> plainly shews it; and they look upon this refusal to be on purpose to hinder Favours towards them; for the Indulgence or Dispencing Power doth
+<pb n="13" facs="tcp:62085:7"/>hurt to no body, but administers a great deal of Comfort and Liberty to the <hi>Dissenters;</hi> for now they are not forced to come to your Church against their Consciences, but have Liberty to serve <hi>God</hi> as they are fully perswaded in their own Minds, without be<g ref="char:EOLhyphen"/>ing Ruined for their so doing.</p>
+            <p>But as you have invaded the Prerogative of <hi>God,</hi> his Rule in the Conscience, so you would deprive the <hi>King</hi> of his Prerogative, in saving his People from Ruin; and none among the <hi>D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssenters</hi> are so foolish, who are in their right Wits, as to take this not to proceed from disaffection to them, but a Testimony of your Sin<g ref="char:EOLhyphen"/>cerity for the <hi>Protestant Religion,</hi> which if you were not wilfully Blind you might easily see.</p>
+            <p>
+               <hi>The Third Objection,</hi>
+            </p>
+            <p>
+               <hi>That Suspension or Depravation of the Refusers may follow, whereby the People of our Church may be left as Sheep without a Shepherd.</hi>
+            </p>
+            <p>To which he answers, first, <hi>Our Church, &amp;c. will suffer less by the Conscientionsness of their suspended Ministers, then it will do by their illegal complyance in so great and fundamental a Point.</hi>
+            </p>
+            <p>Secondly, <hi>God will provide for them, being his own Cause for which they suffer.</hi>
+            </p>
+            <p>Which it will be a hard matter to prove, but after all, the <hi>Kings</hi> Clemency is that they most depend on, but would do well to con<g ref="char:EOLhyphen"/>sider how ill they have treated him for his tendered Clemency, so that in Justice he might wholly with-draw it from you, and look upon you of Quondam Friends to be his present Enemies.</p>
+            <p>How do you think <hi>King Henry</hi> the Eighth would have taken such dealings from his Subjects? he would soon have made the <hi>Clergy</hi> understand better. And if you had lived in his Days, and suffer<g ref="char:EOLhyphen"/>ed as much as many then did, and the <hi>King</hi> had by vertue of his Prerogative dispenced with the <hi>Penal Laws</hi> by which you Suffered, would you have exclaimed against his Dispencing Power for so do<g ref="char:EOLhyphen"/>ing, or rather blest <hi>God</hi> for putting it into the <hi>Kings</hi> Heart to take Compassion of you, as many do now?</p>
+            <p>And though you take so much pains to malign the <hi>King</hi> for hi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Zeal and Resolution in this Glorious Work, yet I do not doubt
+<pb n="14" facs="tcp:62085:8"/>but it will make him more Renowned then any of his Progenitors, so that Ages and Generations to come will Bless God on his behalf.</p>
+            <p>And in short, to sum up the whole drift of this Paper, which is,</p>
+            <list>
+               <item>First, <hi>To charge the</hi> King <hi>and his</hi> Declaration <hi>with Illegallity.</hi>
+               </item>
+               <item>Secondly, <hi>Te excuse the</hi> Clergy <hi>in their Disobedience.</hi>
+               </item>
+               <item>Thirdly, <hi>To excuse themselves both to</hi> Papist <hi>and</hi> Protestant Dissen<g ref="char:EOLhyphen"/>ters, <hi>and to cast a Jealousie into their Minds, that if</hi> Liberty of Con<g ref="char:EOLhyphen"/>science <hi>should be Established by a new</hi> Magna Charta, <hi>a new</hi> Declara<g ref="char:EOLhyphen"/>tion <hi>may put it aside.</hi> Which cannot be if the <hi>Kings</hi> Example be followed. For he hath taken all the legal Courses that may be in the present Juncture, and defers the Disanulling of them till a <hi>Parliament</hi> meets; and intends in order thereunto to call a <hi>Parliament.</hi>
+               </item>
+            </list>
+            <p>But as to the <hi>Magna Charta</hi> already granted, the <hi>King</hi> hath not been taxed with the infringing or breaking it in the least; for it doth not appear by all that hath or can be said, that the <hi>King</hi> hath denied, deferred or sold Justice to any Man, neither hath he ta<g ref="char:EOLhyphen"/>ken, imprisoned or disseised any Man of his Free-hold, Liberties and Customs, but by the Judgment of his Peers.</p>
+            <p>But the <hi>Church of England,</hi> and their <hi>Church-Men,</hi> have made Laws to disseise Men of their Free-holds, Liberties and Customs, without the Judgment of their Peers, or saving to every Man his Contenement, the Merchant his Merchandise, and the Villaine his Wanage; for by the Oaths of two infamous Informers, a Man for only being at a Religious Meeting, was liable to be Fined from Five Shillings a time to Forty pound, without tryal of his Peers, and without saving unto him his Contenement or Merchandise, many times taking away from his Wife and Children, the Beds they lay on, the Pots they drest their Victuals in, and all things needful and necessary for their Subsistance, and when Informers have been impeached of Perjury, some Justices have been so kind as to excuse them with being mistaken.</p>
+            <p>Such as this are the Laws, and such the execution of them, which the <hi>King</hi> hath despenced with, and for which many are so much concerned, that they would make People believe all Law and Equity is going to Ruin, because they cannot still be ruining their peaceable Neighbours.</p>
+            <p>So that those who have broken the old <hi>Magna Charta,</hi> liable to
+<pb n="15" facs="tcp:62085:8"/>the C<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ed by the Makers of it, are the only Persons to be suspected <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould break a new one if they could tell how; but I hope other <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovision will be made.</p>
+            <p>And whereas the Author in the close of the Paper would entitle them to a dependancy on God, and his owning their Cause, I shall bring a few instances of many which might be produced, of very eminent Persons of their own communion, which may convince them to the contrary.</p>
+            <p>First, I hope none of the <hi>Church of England</hi> will deny that <hi>King Charles</hi> the First was a good <hi>Protestant, who thus said,</hi>
+            </p>
+            <p>
+               <hi>I have often declared, how little I desire my Laws and Scepter should intrench upon Gods Soveraignty, who is the only King of Mens Con<g ref="char:EOLhyphen"/>sciences.</hi>
+            </p>
+            <p>Secondly, I may also suppose, that <hi>King Charles</hi> the Second was not questioned to be a <hi>Protestant,</hi> by reason of the Law made in his time against saying he was a <hi>Papist,</hi> who plainly shewed he was of his Fathers mind, as he manifested by the three Declarations he gave forth.</p>
+            <p>Thirdly, Dr <hi>Taylor</hi> an <hi>Irish Bishop,</hi> and without doubt a <hi>Pro<g ref="char:EOLhyphen"/>testant,</hi> writes thus; <hi>Why are we so Zealous against those we call</hi> Here<g ref="char:EOLhyphen"/>ticks, <hi>and yet great Friends with</hi> Drunkards, and Swearers, and Fornicators, <hi>and</hi> Intemporate <hi>and</hi> Idle Persons; <hi>I am certain a</hi> Drunkard <hi>is as contrary to God, and lives as contrary to</hi> Christianity <hi>as a</hi> Heretick; <hi>and I am also sure, that I know what Drunkenness is, but I am not sure that such an opinion is Heresie,</hi> &amp;c.</p>
+            <p>
+               <hi>Fourthly,</hi> The Bishop of <hi>Hereford</hi> in his late print plainly dis<g ref="char:EOLhyphen"/>owns the refusal of the <hi>Clergy</hi> to read the <hi>Kings Declaration,</hi> avow<g ref="char:EOLhyphen"/>ing it to be contrary to the <hi>Word of God,</hi> refuting the Arguments and Reasons to the Contrary; but I am afraid too many professing Christianity stand up more for Interest then for Religion; for sometimes, <hi>Submit your selves to every Ordinance of man,</hi> is good Doctrin, though he ordains things to which People cannot submit for Con<g ref="char:EOLhyphen"/>science sake; but if it thwart their Interest though it doth not in<g ref="char:EOLhyphen"/>trench upon their Consciences, then this Doctrine is to be wholy laid aside, and not at all regarded, so that by this rule all that may be called Religious, is made like a Nose of Wax to be formed in<g ref="char:EOLhyphen"/>to what shape they please. So that the <hi>King,</hi> in taking the advise
+<pb n="16" facs="tcp:62085:9"/>of his Father, and performing the Promise of his Brother, and therein being justined by the Testimonies of many approved Men, hath done more like a Christian then some would have him; shew<g ref="char:EOLhyphen"/>ing that a <hi>Roman Catholick King</hi> may be of better Principles, then those that pretend so much to Reformation.</p>
+            <p>What I have here written I hope will satisfie all Moderate Men, who are willing to do as they would be done by; but as for those who are willing to be deceived, I cannot help it if they be deceived, though I should be more glad of the Contrary.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62085:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
